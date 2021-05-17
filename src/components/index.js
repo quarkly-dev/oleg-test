@@ -1,0 +1,7 @@
+export { default as QuarklycommunityKitTimer } from "./QuarklycommunityKitTimer"
+export { default as TabsItem } from "./TabsItem"
+export { default as TabsList } from "./TabsList"
+export { default as CardTest } from "./CardTest"
+export { default as QuarklycommunityKitYandexMap } from "./QuarklycommunityKitYandexMap"
+export { default as EmbedJsBoardCrm } from "./EmbedJsBoardCrm"
+export { default as EmbedHtmlBoardCrm } from "./EmbedHtmlBoardCrm"
