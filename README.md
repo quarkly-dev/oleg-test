@@ -15,6 +15,11 @@
     <img src="https://badgen.net/badge/Gatsby/2.23.12/purple" alt="Gatsby version" />
   </a>
   
+   <a href="https://github.com/quarkly-dev/oleg-test/pulls">
+     <img src="https://badgen.net/github/prs/quarkly-dev/oleg-test" alt="Pull Request Amount">
+   </a>
+   <img src="https://badgen.net/github/last-commit/quarkly-dev/oleg-test" alt="Last commit date" />
+    
   <a href="./LICENSE">
     <img src="https://badgen.net/badge/license/MIT/blue" alt="License">
   </a>
@@ -73,7 +78,7 @@ Here you can create websites and web apps quickly, conveniently and beautifully.
 - [Updates](https://quarkly.io/updates)
 - [GitHub](https://github.com/quarkly)
 - [Twitter](https://twitter.com/quarklyapp)
-- [Spectrum](https://spectrum.chat/quarkly)
+- [Community](https://community.quarkly.io/)
 
 # 📝 License
 Licensed under the [MIT License](./LICENSE).
